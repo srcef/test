@@ -1,1 +1,1 @@
-xxxx&1.3&efwgwg&ftp://tony2931.3vcm.net/app-release.apk
+xxxx&1.3&efwgwg&https://github.com/srcef/test/blob/master/app-release.apk
